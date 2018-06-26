@@ -1,0 +1,79 @@
+body{
+	margin : 0px;
+	padding : 0px;
+	background-image:url("https://i2.wp.com/phasesbusinessmanagement.com/wp-content/uploads/2016/07/1.jpg?resize=560%2C306&ssl=1.png");
+	background-repeat: no-repeat;
+	background-position: circle;
+	background-size:100%;
+}
+h1{
+	text-align: center;
+	text-shadow: georgian;
+	background : #999;
+	font-family: algerian;
+	font-size: 72;
+	width: 100%;
+}
+span{
+	color:red;
+}
+	
+.header{
+	background-color: #1A3333;
+	color : white;
+	text-align : center;
+	size: 50%;
+	top: 0px;
+	width: 100%;
+	padding :15px;
+	
+}
+form{
+	width: 30%;
+	padding: 30px;
+	border: 1px solid #cbcbcb;
+	margin: 5px auto;
+
+}
+.textInput{
+	margin-top : 2px;
+	height: 28px;
+	border: 1px solid #5E6E66;
+	font-size: 16px;
+	padding: 1px;
+	width:100%;
+	
+}
+#error_msg{
+	width: 50%;
+	margin: 5px auto;
+	height: 30px;
+	border: 1px solid #FF0000;
+	background: #FFB9B8;
+	color: #FF0000;
+	text-align: center;
+	padding-top: 10px;
+}
+th{
+	text-align: right;
+	color: white;
+}
+button
+{
+	color:black !important;
+}
+.btn{
+	align : center-right;
+
+}
+.control-label 
+{
+	color: white;
+}
+form{
+	background-color: #222 !important;
+	opacity:0.89;
+}
+
+	
+	
